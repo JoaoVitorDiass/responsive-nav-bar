@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color1: black;
+    --color2: gray;
+    --color3: darkgray;
+    --color4: lightgray;
+
+    --fontColor1: black;
+    --fontColor2: white;
+}
+
+/* document.documentElement.style.setProperty('--primaryColor', 'green'); */
